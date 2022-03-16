@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/creadorMemes/static/css/main.cbbb1420.css",
-    "main.js": "/creadorMemes/static/js/main.eced4703.js",
+    "main.js": "/creadorMemes/static/js/main.9c2d6d33.js",
     "static/js/787.4331e8b3.chunk.js": "/creadorMemes/static/js/787.4331e8b3.chunk.js",
     "index.html": "/creadorMemes/index.html",
     "main.cbbb1420.css.map": "/creadorMemes/static/css/main.cbbb1420.css.map",
-    "main.eced4703.js.map": "/creadorMemes/static/js/main.eced4703.js.map",
+    "main.9c2d6d33.js.map": "/creadorMemes/static/js/main.9c2d6d33.js.map",
     "787.4331e8b3.chunk.js.map": "/creadorMemes/static/js/787.4331e8b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbbb1420.css",
-    "static/js/main.eced4703.js"
+    "static/js/main.9c2d6d33.js"
   ]
 }
